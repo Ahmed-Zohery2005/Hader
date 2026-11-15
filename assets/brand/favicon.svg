@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="حاضر">
+  <!-- فافيكون مبسط: الأقواس + علامة التحقك على خلفية زمردية -->
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#0F6E56"/>
+  <g fill="none" stroke="#F8F7F4" stroke-width="42" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 118 224 L 118 118 L 224 118"/>
+    <path d="M 288 118 L 394 118 L 394 224"/>
+    <path d="M 118 288 L 118 394 L 224 394"/>
+    <path d="M 394 288 L 394 394 L 288 394"/>
+  </g>
+  <path d="M 180 262 L 244 326 L 338 212"
+        fill="none" stroke="#F8F7F4" stroke-width="50"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
